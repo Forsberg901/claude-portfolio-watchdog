@@ -69,9 +69,9 @@ schedule:
 # === НАСТРОЙКИ ОТЧЁТОВ ===
 reports:
   # Язык всех уведомлений и PDF: ru | en
-  language: ru
+  language: ru | en
   # IANA-таймзона, в которой отображаются даты в отчётах.
-  timezone: Europe/Moscow
+  timezone: new york
   # Базовая валюта для итоговой стоимости и P&L.
   currency: USD
   # Бенчмарк для сравнения портфеля (на графике performance vs benchmark).
